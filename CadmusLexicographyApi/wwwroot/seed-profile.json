@@ -24,7 +24,7 @@
         },
         {
           "typeId": "it.vedph.pin-links",
-          "roleId": "word",
+          "roleId": "entry",
           "name": "collegamenti",
           "description": "Collegamenti ad altre parole.",
           "colorKey": "A0C0F8",
@@ -196,12 +196,12 @@
           "value": "nota"
         },
         {
-          "id": "it.vedph.pin-links_law",
-          "value": "articoli"
+          "id": "it.vedph.pin-links_entry",
+          "value": "collegamenti"
         },
         {
-          "id": "it.vedph.pin-links_word",
-          "value": "collegamenti"
+          "id": "it.vedph.pin-links_law",
+          "value": "articoli"
         }
       ]
     },
