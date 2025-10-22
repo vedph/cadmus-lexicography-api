@@ -236,6 +236,18 @@
         {
           "id": "adverb",
           "value": "avverbio"
+        },
+        {
+          "id": "det",
+          "value": "determinante"
+        },
+        {
+          "id": "pron",
+          "value": "pronome"
+        },
+        {
+          "id": "prep",
+          "value": "preposizione"
         }
       ]
     },
@@ -247,19 +259,19 @@
       "id": "lex-word-form-features@en",
       "entries": [
         {
-          "id": "singular",
+          "id": "number:singular",
           "value": "singolare"
         },
         {
-          "id": "plural",
+          "id": "number:plural",
           "value": "plurale"
         },
         {
-          "id": "masculine",
+          "id": "gender:masculine",
           "value": "maschile"
         },
         {
-          "id": "feminine",
+          "id": "gender:feminine",
           "value": "femminile"
         }
       ]
@@ -272,8 +284,12 @@
           "value": "obsoleto"
         },
         {
-          "id": "juridical",
-          "value": "giuridico"
+          "id": "informal",
+          "value": "informale"
+        },
+        {
+          "id": "technical",
+          "value": "tecnico"
         }
       ]
     },

@@ -17,7 +17,7 @@
 		<PackageReference Include="Cadmus.Graph.Extras" Version="8.0.11" />
 		<PackageReference Include="Cadmus.Index.Ef.PgSql" Version="9.0.4" />
 		<PackageReference Include="Cadmus.Core" Version="8.0.11" />
-		<PackageReference Include="Cadmus.Lexicography.Services" Version="0.0.1" />
+		<PackageReference Include="Cadmus.Lexicography.Services" Version="0.0.2" />
 		<PackageReference Include="Cadmus.Mongo" Version="8.0.11" />
 		<PackageReference Include="Cadmus.Seed" Version="8.0.11" />
 		<PackageReference Include="Cadmus.Seed.General.Parts" Version="7.0.7" />
