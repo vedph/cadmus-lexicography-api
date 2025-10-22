@@ -207,7 +207,88 @@
     },
     {
       "id": "comment-categories@en",
-      "entries": []
+      "entries": [
+        {
+          "id": "a",
+          "value": "alpha"
+        },
+        {
+          "id": "b",
+          "value": "beta"
+        }
+      ]
+    },
+    {
+      "id": "lex-pos-tags@en",
+      "entries": [
+        {
+          "id": "noun",
+          "value": "sostantivo"
+        },
+        {
+          "id": "verb",
+          "value": "verbo"
+        },
+        {
+          "id": "adjective",
+          "value": "aggettivo"
+        },
+        {
+          "id": "adverb",
+          "value": "avverbio"
+        }
+      ]
+    },
+    {
+      "id": "lex-word-ctoken-pos-tags@en",
+      "targetId": "lex-pos-tags"
+    },
+    {
+      "id": "lex-word-form-features@en",
+      "entries": [
+        {
+          "id": "singular",
+          "value": "singolare"
+        },
+        {
+          "id": "plural",
+          "value": "plurale"
+        },
+        {
+          "id": "masculine",
+          "value": "maschile"
+        },
+        {
+          "id": "feminine",
+          "value": "femminile"
+        }
+      ]
+    },
+    {
+      "id": "lex-word-form-tags@en",
+      "entries": [
+        {
+          "id": "obsolete",
+          "value": "obsoleto"
+        },
+        {
+          "id": "juridical",
+          "value": "giuridico"
+        }
+      ]
+    },
+    {
+      "id": "lex-word-form-types@en",
+      "entries": [
+        {
+          "id": "written",
+          "value": "ortografia"
+        },
+        {
+          "id": "spoken",
+          "value": "pronunzia"
+        }
+      ]
     },
     {
       "id": "metadata-types@en",
