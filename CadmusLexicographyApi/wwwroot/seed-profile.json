@@ -168,10 +168,6 @@
           "value": "riferimenti"
         },
         {
-          "id": "it.vedph.metadata",
-          "value": "metadati"
-        },
-        {
           "id": "it.vedph.decorated-counts",
           "value": "statistiche"
         },
@@ -192,15 +188,23 @@
           "value": "collocazioni"
         },
         {
+          "id": "it.vedph.metadata",
+          "value": "metadati"
+        },
+        {
           "id": "it.vedph.note",
           "value": "nota"
         },
         {
-          "id": "it.vedph.pin-links_entry",
+          "id": "it.vedph.pin-links",
           "value": "collegamenti"
         },
         {
-          "id": "it.vedph.pin-links_law",
+          "id": "it.vedph.pin-links:entry",
+          "value": "collegamenti"
+        },
+        {
+          "id": "it.vedph.pin-links:law",
           "value": "articoli"
         }
       ]
