@@ -10,6 +10,8 @@ This is a Cadmus API layer customized for the Lexicography shell app. Most of it
 
 ## History
 
+- 2026-01-19: updated packages.
+
 ### 1.0.0
 
 - 2025-11-24: ⚠️ upgraded to NET 10.
