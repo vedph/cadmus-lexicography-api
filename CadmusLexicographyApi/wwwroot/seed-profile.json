@@ -1,9 +1,9 @@
 {
   "facets": [
     {
-      "id": "default",
-      "label": "default",
-      "description": "The default facet",
+      "id": "entry",
+      "label": "voce",
+      "description": "Voce lessicale",
       "colorKey": "86ACEB",
       "partDefinitions": [
         {
